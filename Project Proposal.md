@@ -11,7 +11,7 @@ My aim is to leverage the capabilities of NLP to understand what words or topics
 
 * Who benefits from exploring this question or building this model/system?
 
-I'm hoping to find any similar words or phrases from the transcripts to learn the art of preparing an impactful speech. I also plan to understand the topics that became most popular (analyzing the number of views).   
+I'm hoping to find any similar words or phrases from the transcripts to learn how to prepare an impactful speech. I also plan to understand the topics that became most popular (analyzing the number of views).   
 
 #### Data Description:
 * What dataset(s) do you plan to use, and how will you obtain the data?
@@ -26,7 +26,7 @@ Each row represents details about a single talk. I plan to use 3 features - Tran
 
 * If modeling, what will you predict as your target?
 
-I plan to predict topics for each talk using unsupervised techniques and no. of views using linear regression.  
+I plan to perform topic modeling for each talk using unsupervised techniques and no. of views using linear regression.  
 
 #### Tools:
 * How do you intend to meet the tools requirement of the project? 
