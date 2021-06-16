@@ -4,10 +4,12 @@
 * What is the framing question of your analysis, or the purpose of the model/system you plan to build? 
 
 Change is inevitable and is happening all around us. Societal change is stimulated by media, human interactions, technology, and social environment. 
-[TED Talks](https://www.ted.com/talks) is one such platform that enables expert speakers from all backgrounds to present their ideas that can influence a positive change in the society. My aim is to leverage the capabilities of NLP to understand the topics or words for each talk. Finally, I would like to build a linear regression model to predict the number of views.      
+[TED Talks](https://www.ted.com/talks) is one such platform that enables expert speakers from all backgrounds to present their ideas that can influence a positive change in the society. My aim is to leverage the capabilities of NLP to understand what words or topics made a talk persuative and if there were any relationships between each talk. Finally, I would like to build a linear regression model to predict the number of views.      
 
 
 * Who benefits from exploring this question or building this model/system?
+
+Effective speaking has many 
 
 #### Data Description:
 * What dataset(s) do you plan to use, and how will you obtain the data?
