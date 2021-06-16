@@ -26,14 +26,14 @@ Each row represents details about a single talk. I plan to use 3 features - Tran
 
 * If modeling, what will you predict as your target?
 
-I plan to predict the no. of views for a talk using linear regression.
+I plan to predict topics for each talk using unsupervised techniques and no. of views using linear regression.  
 
 #### Tools:
 * How do you intend to meet the tools requirement of the project? 
 
-* spaCy, Numpy, Pandas for data cleaning and EDA
-* Scikit-learn for modelling and analysis
-* Matplotlib, Tableau for visualization 
+    * spaCy, Numpy, Pandas for data cleaning and EDA
+    * Scikit-learn for modelling and analysis
+    * Matplotlib, Tableau for visualization 
 
 * Are you planning in advance to need or use additional tools beyond those required?
 
@@ -41,3 +41,7 @@ May be visualizations on tableau if time permits.
 
 #### MVP Goal:
 * What would a [minimum viable product (MVP)](./mvp.md) look like for this project?
+
+MVP will contain preprocessed data with some topic modeling performed. 
+
+
