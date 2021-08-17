@@ -14,5 +14,9 @@ Dataset is downloaded from [here](https://www.kaggle.com/rounakbanik/ted-talks) 
 
 25 topics were finalized using the TFIDF vectorizer and NMF modeling. The coefficients were saved as a dataframe and a linear regression was fit to predict the number of views for the topics. Linear regression could not perform well as there was no linear relationship among the features and views. Futher work includes working on other modeling techniques with more features to improve accuracy. 
 
+With the current model, the feature importance weighs below topics as important - 
+
+<img src="TedTalks_features.png" alt="TedTalk_features" width="800" height = "600"/> 
+
 
    
