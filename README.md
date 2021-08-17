@@ -8,7 +8,7 @@ Dataset is downloaded from [here](https://www.kaggle.com/rounakbanik/ted-talks) 
 # Workflow
 1. [Topic Modeling & Sentiment Analysis](Final_submission/NLP_TopicModeling.ipynb)
 2. [Linear Regression](Final_submission/NLP_Linear_Regression.ipynb)
-3. [Presentation Slides](Final_submission/MetisNLP_Slides.pdf)
+3. [Presentation Slides](https://github.com/PrasunaM/TED_Talks-MetisNLP/blob/6ef7212542bd2ee12a289ea44ca318c8b0b6be3f/Final_submission/MetisNLPSlides.pdf)
 
 # Conclusion
 
